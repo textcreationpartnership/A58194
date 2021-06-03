@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The razing of the record, or, An order to forbid any thanksgiving for the Canterbvry newes publisht by Richard Culmer</title>
+         </titleStmt>
+         <extent>Approx. 32KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58194</idno><idno type="EEBO-CITATION">11875448</idno>
+  <idno type="VID">50203</idno>
+  <idno type="EEBO-PROQUEST">2248514743</idno>
+  
+            <idno type="STC">Wing R420</idno>
+            <idno type="STC">ESTC R878</idno>
+            <idno type="OCLC">11875448</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A58194)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50203)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 228:E7, no 26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The razing of the record, or, An order to forbid any thanksgiving for the Canterbvry newes publisht by Richard Culmer</title>
+               </titleStmt>
+               <extent>[4], 15 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Rejoinder to Culmer's Cathedrall newes from Canterbury, London, 1644.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Culmer, Richard, d. 1662. --  Cathedrall newes from Canterbury.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:50203:1"/>
+            <pb facs="tcp:50203:1"/>
+            <p>THE RAZING OF THE RECORD.</p>
+            <p>OR, An Order to forbid any Thanks<g ref="char:EOLhyphen"/>giving for the CANTERBVRY Newes publisht by <hi>Richard Culmer.</hi>
+            </p>
+            <p>Printed at <hi>Oxford,</hi> in the yeare 1644.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:50203:2"/>
+            <pb facs="tcp:50203:2"/>
+            <head>To The HONOVRABLE COMMITTE Of the House of COMMONS In PARLIAMENT, Concerning plundered Ministers.</head>
+            <opener>
+               <salute>GENT.</salute>
+            </opener>
+            <p>FInding that the Honourable house of Commons, Assembled in <hi>Parliament,</hi> hath referred to your consideration and examination some matters touching the reformation of unjust acts committed against Ministers; out of my zeale to that worke I have presumed to hold the Candle to you a little, to further the discovery of a notable Plunderer of the good names, and rigid ransacker of the lives and con<g ref="char:EOLhyphen"/>versations of his other fellow Ministers, having all the same Ordination (from the cursed prelaticall Hierarchy of Bishops, as himselfe called it, <hi>p. 16.</hi>) and no whit inferiour (let any thing but a Commit<g ref="char:EOLhyphen"/>tee be judge) in the inward Ornaments and graces of the mind, as well as the outward evidence of a vertuous and honest life to the godly and learned di<g ref="char:EOLhyphen"/>vine (that's the word) <hi>Richard Culmer,</hi> Minister of Gods Word, dwelling in <hi>Canterbury,</hi> heretofore of <hi>Magdalen</hi> Colledge in <hi>Cambridge,</hi> Master of Arts, and what not?</p>
+            <pb facs="tcp:50203:3"/>
+            <p>The personall Errors of men I take not upon mee to defend, nor would I have this Honourable Com<g ref="char:EOLhyphen"/>mittee perswaded to cleanse the <hi>Augaean</hi> stable, that is (as he would have it) thrust out the Tribe of <hi>Levi,</hi> to make roome for a Tribe of <hi>Many-Asses.</hi> Nor let the Oyle of the fat Revenues of the Cathe<g ref="char:EOLhyphen"/>drall be drayned into the Lampe of such a burning and shining light as is <hi>Richard Culmer,</hi> who fol<g ref="char:EOLhyphen"/>lowes you, but as the people did our Saviour Christ, for the bread you give him: for if <hi>Kent</hi> know <hi>Can<g ref="char:EOLhyphen"/>terbury,</hi> and <hi>Canterbury</hi> knoweth but its owne gates and ports, certainely nothing can be better knowne by all men from him that sitteth on the Throne at the Committee, and hee that at home grin<g ref="char:EOLhyphen"/>deth at the mill of his upper and lower teeth, small and sparing morsells to pay the Taxes of his Estate, then <hi>Richard Culmer,</hi> whose ayme is the downe<g ref="char:EOLhyphen"/>fall of <hi>Babylon,</hi> and the uprising of <hi>Babell</hi> and Confusion. And therefore leaving him, if I could so depict him, full <hi>60</hi> steps high on a well-affected Ladder, taking his ayme, I betake me to a miserable and unexcusable losse of time, in perusing of his ray<g ref="char:EOLhyphen"/>ling and impudent slanders and lyes, which will ne<g ref="char:EOLhyphen"/>ver be sanctified by the double spirit of the two godly Licensers, <hi>John White</hi> and <hi>Joseph Caryll.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:50203:3"/>
+            <head>The Razing of the RECORD: OR, An Order to forbid any thanks-giving for the <hi>Canterbury</hi> Newes, published by <hi>Richard Culmer.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He first thing we meet withall, is, the Horn and strength of this Reformation, a popu<g ref="char:EOLhyphen"/>lar petition, which however bearing the title of a peaceable and humble addresse was made use of only to put the people into an humour of fluctuation and unquietnesse, that thereby they might be prepared for such motions as the most vio<g ref="char:EOLhyphen"/>lent and tempestuous breath of these men was readie to blow them into.</p>
+            <p>The truth of those mens bearing Offices in the Church, [he mentions <hi>p.</hi> 4:] I wil not stand to examine: one of whom he cals a Weaver, another a Tobacco-pipe-maker, another a Taylor, another a Servingman. But sure I am, that had not Weavers, Taylors, Tobacco-pipe-makers, and all the poore rabble of <hi>London,</hi> even to the Porters of the Com<g ref="char:EOLhyphen"/>mons keyes, and Wharfes beene call'd to the Office of Re<g ref="char:EOLhyphen"/>formers in Church and State, petitioning in words they could not read, for matters they could not understand, we had beene more peaceable and happy, then became the engagements and interests of some men, whom we could name in Print as well as <hi>Richard Culmer,</hi> if it would ad<g ref="char:EOLhyphen"/>vantage our good wishes at all.</p>
+            <p>For the composure of this Newes-mongers booke, when we looke upon it all at once, we cannot but won<g ref="char:EOLhyphen"/>der at the facility and indulgence of <hi>Ioseph Caryll</hi> the Li<g ref="char:EOLhyphen"/>censer,
+<pb n="2" facs="tcp:50203:4"/> who bestowes upon the first page his observation of what the <hi>Hand of providence hath wrought in our Israel, to be looked upon by all with a due mixture of wonder and thank<g ref="char:EOLhyphen"/>fulnesse,</hi> when as the whole matter is but a raw digestion of such poore and meane impertinences, and incoherent scraps and fragments, as the wit of <hi>Richard Culmer</hi> was a<g ref="char:EOLhyphen"/>ble onely to deliver: where in one place he tells us a tale of starching a ruffe, 30 yeares agoe; in another, what meat a Cathedral prelate would only eat at dinner on such a day: how low a Prelate looked to see a female kneele at the receiving of the Communion: what dreames my Lord of <hi>Canterbury</hi> had: how a Butchers dog came into the Church and what he did, [not as he doth here, Lye.] How a little child called singing a paine in the belly: when and where a Coach was overturned. These and ma<g ref="char:EOLhyphen"/>ny others of the like high concernment doth <hi>Ioseph Caryll</hi> conceive necessary to be published to the view of all, and worthy to be looked upon with a due mixture of wonder and thankfulnesse.</p>
+            <p>But to attacque <hi>Richard</hi> himselfe, to blazon the man, you may say, his Coat is Sable, or rather [to take away all colour of resemblance or correspondence with <hi>Rome</hi>] Tenne, a Chiefe gules, somy of Newes and Intelligences, as Victories, deliverances, Prince <hi>Ruperts</hi> death, the taking of the King, and the like, being the Son of Blew <hi>Dick</hi> of <hi>Thanet.</hi>
+            </p>
+            <p>[<hi>P.</hi> 4. <hi>'Tis no wonder to see the Sack bottle keep rank and file in their Cathedral studies.</hi>] And yet such an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>-wonder you may see in D. <hi>Iackson's</hi> study at any time, and no where else in the whole Church: who perhaps tyred sometimes with his impostures before the people, returned to these warm draughts of Canary, to recover his chill and trembling soule from the horror of so great guilt.</p>
+            <p>
+               <hi>P.</hi> 16. <hi>[How did the Cathedrall Prelates bestir themselves for
+<pb n="3" facs="tcp:50203:4"/> the brave female Cathedralist, who was lately delivered of a child alone? &amp;c.]</hi> Marke how the faithfull man engageth the whole Cathedrall in a businesse concerned onely a private family: for a Maid servant of a Prebend of the Church, being endicted upon the Stat. of 21 <hi>Iac.</hi> was b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ought to her Tryall [at the same Sessions were Master <hi>Necessity,</hi> alias <hi>Ladde</hi> now Judge of the Archbishops court at <hi>Canterbury,</hi> delivered in his charge: that in some cases 'twas lawfull to commit Treason, such mad Lawes and such foolish Judges hath this age brought f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rth] and was accquitted, wherein perhaps she owed something to the counsell of friends in managing her defence; as <hi>Richard Culmer</hi> himselfe oweth something to those good friends, by whose meanes he thrust Master <hi>Goffe</hi> ou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of his Living, and got in himselfe. But perhaps 'twas <hi>Richard Culmers</hi> or the Ministers fault, and not the weake female Cathedra<g ref="char:EOLhyphen"/>lists, that this fact was committed, as the like hapned to another gracious Virgin, who conceived with child by a Religious Gent. son and heire to the learned Judge a<g ref="char:EOLhyphen"/>foresaid, onely for the miscarrying of a Bill, wherein the Minister should have engaged the whole congregation to have prayed against her Temptation, which being omit<g ref="char:EOLhyphen"/>ted, she miscarried her selfe presently after. As for the Malignant Justices, which were all so it seemes, except<g ref="char:EOLhyphen"/>ing two; one of whom was Learned, [but not honest] and the other Noble and valiant, [but not wise:] I leave them to be rayl'd on perpetually for every thing they shall doe that <hi>Richard Culmer</hi> likes not, especially if they omit hang<g ref="char:EOLhyphen"/>ing such as the Learned aforesaid, and the Noble and vali<g ref="char:EOLhyphen"/>ant aforesaid, and his divine selfe shall think fit, being all their Superiours.</p>
+            <p>[<hi>P.</hi> 5. <hi>An able and Orthodox Divine could not have a Li<g ref="char:EOLhyphen"/>ving in those parts.</hi>] Now if thou lovest me, <hi>Richard,</hi> tell me if thou dost not meane thy selfe here; prethee tell me if
+<pb n="4" facs="tcp:50203:5"/> thou hast not a pretty good opinion of thy own red head, and whether it be not a better age now, since an able and Orthodox divine heretofore of <hi>Magdalen</hi> Colledge in <hi>Cambridge,</hi> and Master of Arts, hath gotten a good Li<g ref="char:EOLhyphen"/>ving in those parts, and stands very conveniently for him neere the high-way, to purvey for newes.</p>
+            <p>[<hi>P.</hi> 7. <hi>It was then said to her, look in the crack in that stone, that mouth cals to Heaven for vengeance on those that shed this holy Martyrs blood.</hi>] To the Queen Mother spoken, but by whom not named, that an unwary reader might be caught, and thinke 'twas some Cathedrall man spake it. Blush at thy owne dishonesty and false dealing, <hi>Richard.</hi>
+            </p>
+            <p>[<hi>P.</hi> 8. <hi>And had it not beene for one of that society, who though misled, yet now returned, hath beene a constant preacher, and in that respect their Cathedrall salt, &amp;c.</hi>] This is that D. <hi>Iack<g ref="char:EOLhyphen"/>son</hi> named before, one that thinkes he can stand behind his beard and act any thing unseene, but he is seene both of God and man. This is he, that when these troubles were in their <hi>motu trepidationis,</hi> none being able to judge of their inclination, would one day preach for Bishops, another day against them; one day for the Lyturgie, and the next day against it: one Sunday tell the people they must have a great care they made not an Idoll of the Par<g ref="char:EOLhyphen"/>liament; and the next Lords Day make an Idoll of it himselfe. And therefore is he here said, to have beene misled, but now return'd; as one that having consulted with his bottles, tooke thence an inspiration to be of the sure side. This is that constant preacher, that for along time preached nothing but his own Inconstancy, to the derision &amp; cōtempt of al degrees of persons; &amp; yet this is he, whom because the prosperity of the Cause hath kept now in a long lesson, is called the Cathedrall Salt, from the Text in <hi>Mathew</hi> 5.13. <hi>Yee are the salt of the earth:</hi> without con<g ref="char:EOLhyphen"/>sidering what followes; <hi>but if the salt have lost its savour, wherewith shall it be salted?</hi>
+            </p>
+            <pb n="5" facs="tcp:50203:5"/>
+            <p>
+               <hi>P.</hi> 8. <hi>A Religious and well affected Alderman of</hi> Canterbu<g ref="char:EOLhyphen"/>ry <hi>gave me lately a transcript, of a passage written with his own hand, in a spare leafe in his great Bible, which passage I have often read: It's this.</hi>] Where it seemes something about the re<g ref="char:EOLhyphen"/>all presence is observed, (a high poynt for an Alderman) and I make a doubt whether his worship was really pre<g ref="char:EOLhyphen"/>sent or no, at least his understanding.</p>
+            <p>
+               <hi>[This is writ in the Aldermans great Bible, but in the trans<g ref="char:EOLhyphen"/>cript he wrote further to me thus: But the Cathedrall Doctor did so conjure, that I went away with my haire an end</hi> (though his haire had an end long before) <hi>and came no more to the Ca<g ref="char:EOLhyphen"/>thedrall in</hi> 8 <hi>yeares after, and I could not be in tune till the com<g ref="char:EOLhyphen"/>ming of the Noble Scots, and the Parliament comming set me right agen.]</hi> This was written 8 yeares after the note in the great Bible: I thinke the Alderman may compare with Sir <hi>Henry Vane</hi> for a memory. But I wonder what broken sleepes the poore man had, that was not in tune for 8 yeeres; and what a lamentable life he had lived if we had had no Parliament, for he would never have beene right agen, but in all likelyhood have gone out of the world a wrong way.</p>
+            <p>[<hi>P.</hi> 8. <hi>Christ-tide p.</hi> 11. <hi>last Michael-tide,</hi> 1643.] O the di<g ref="char:EOLhyphen"/>vine gracious lips of sweet <hi>Richard,</hi> that can tide it thus into a Reformation! But we shall see how long he keepes his new sanctified phrases presently.</p>
+            <p>[<hi>P.</hi> 11. <hi>When some notorious Malignants and Incendiaries, both Priests and others were secured in</hi> Canterbury.] That is, when it was lawfull for Taylors, Tinkers, Barbers, Sad<g ref="char:EOLhyphen"/>lers, Hatters, (alias haters) and their Levites, to decree Malignants and Incendiaries, they tooke upon them also to decree their punishments; and accordingly by night, went out in Troopes and beset the houses of Gentlemen, to the affrightment of their wives and families, and carri<g ref="char:EOLhyphen"/>ed thence the Master of the House (because a stronger
+<pb n="6" facs="tcp:50203:6"/> then he was come there) &amp; what else they pleased. And the other inhumanities and barbarismes committed by these men, knowne onely to <hi>Richard Culmer,</hi> whose emissaries they were, I leave to <hi>Richard</hi> himselfe to Chronicle in his next glorious Record.</p>
+            <p>[<hi>P.</hi> 13. <hi>Where that proud Prelate</hi> Thomas Becket, <hi>Arch<g ref="char:EOLhyphen"/>bishop of</hi> Canterbury, <hi>and Arch-Traytor, was cast downe head<g ref="char:EOLhyphen"/>long in that Cathedrall for his Treason and Rebellion.</hi>] How now! Treason and Rebellion! against whom? Me thinks this were enough to make your haire stand an end, as did the Alderman's. Looke thy face in a glasse, <hi>Richard,</hi> and tell me if thou seest not an Arch-bishop or any Arch-Traytor there.</p>
+            <p>[<hi>P.</hi> 14. Here the Minister is turn'd Poet: which veine I suppose he had heretofore at <hi>Magdalen</hi> Colledge in <hi>Cambridge,</hi> though he had not a fit subject to worke it upon never since, till the fall of a Weather-cocke rais'd his fancy as high as the siege of <hi>Troy</hi> did <hi>Homers.</hi> And therefore to meet with thee a little at every poynt, take a touch of Rime from me (good <hi>Richard</hi>) and tell me if I hobble as good Non-sense as thy inspired selfe.</p>
+            <q>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>When the strongest was King, there rose up a thing,</l>
+                  <l>Some call'd a Divine for the Cause-a,</l>
+                  <l>Who had put to sale a <hi>Canterbury</hi> tale</l>
+                  <l>Made onely to cozen Iack-Dawes-a.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>The matter was such, it availed him much</l>
+                  <l>To describe the Prelaticall sinner:</l>
+                  <l>For his piety got, a good Living by the Plot,</l>
+                  <l>And roast beefe for a Saturday dinner.</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>For the Round-head devotion had gotten a notion,</l>
+                  <l>That sleep was procur'd by much eating:</l>
+                  <pb n="7" facs="tcp:50203:6"/>
+                  <l>And therefore did Feast, beforehand with the best,</l>
+                  <l>To spend the next day in repeating.</l>
+               </lg>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>When <hi>Richard</hi> was pleas'd, the Church then had encreas'd</l>
+                  <l>One poynt to a Reformation,</l>
+                  <l>Then downe went all Masse, and Idolatrous glasse,</l>
+                  <l>To make room for a prophanation.</l>
+               </lg>
+               <lg n="5">
+                  <head>5.</head>
+                  <l>The Saints were bid pack, with their honour at their back,</l>
+                  <l>Up to their Coelestiall dwellings:</l>
+                  <l>For Religion now sings, we are all Saints and Kings,</l>
+                  <l>And hate all Prelaticall swellings.</l>
+               </lg>
+               <lg n="6">
+                  <head>6.</head>
+                  <l>The Musick from our eares, was sent up to the Sphears,</l>
+                  <l>And from thence was brought downe for it Thunder:</l>
+                  <l>Which the holy men throw at all those will not show,</l>
+                  <l>At their gifts how much they doe wonder.</l>
+               </lg>
+               <lg n="7">
+                  <head>7.</head>
+                  <l>Now the Aldermans book, with <hi>Richard's</hi> stern look,</l>
+                  <l>Have agree'd to hurl Antichrist downe-a.</l>
+                  <l>T'whom is joyn'd the King, for the profit he doth bring</l>
+                  <l>To the sharers o'th' spoyles of the Crowne-a.</l>
+               </lg>
+            </q>
+            <p>[<hi>P.</hi> 15. <hi>Steeple of the Cathedrall, called</hi> Pauls <hi>in</hi> London.] Pretty Pupill of sweet <hi>Isaac's</hi> owne educating! 'Tis not fit the Saints should be in a worse condition then they were in the Plague Bill, and therefore thou dost well not to name any. Tell me now, what call you Master Solici<g ref="char:EOLhyphen"/>tor? Is his name Master <hi>Iohn?</hi> Let it be so, and then ac<g ref="char:EOLhyphen"/>cuse the Religious and Learned Divine of Popery, for praying for a Saint departed.</p>
+            <p>[<hi>P.</hi> 16. <hi>The King did at</hi> Canterbury, <hi>and no where's else in all</hi> England.] O wonderfull! That the King, being at <hi>Canterbury,</hi> and no where's else in all <hi>England,</hi> and there<g ref="char:EOLhyphen"/>fore
+<pb n="8" facs="tcp:50203:7"/> at <hi>Canterbury,</hi> because no where else in all <hi>England,</hi> should signe a Bill, which, while he did there, he did no where else in all <hi>England;</hi> wonderfull strange!</p>
+            <p>[<hi>P.</hi> 17. <hi>On their Candle-masse day at night,</hi>] Ho! Gentle<g ref="char:EOLhyphen"/>men, and Officers, and all others, Members of the House, Divines of the Synod, and all that love Religion; here's a fellow with a Pope in his belly, one that would bring in Masse againe by little and little; and therefore I beseech you, let him be taken out of the w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y. This is he that misleades the people under a shew of true Religion, and is himselfe popishly affected: a Minister ordained by that cursed Prelaticall Hierarchy. [<hi>P.</hi> 16.] and still re<g ref="char:EOLhyphen"/>taines a savour of their Idolatry and Superstition: away with him, I beseech you, away with him, and trust him not any longer, for the service he seemes to doe you as a Spye &amp; Intelligencer. He is a meer Impostor &amp; deceiver.</p>
+            <p>[<hi>P.</hi> 17. <hi>They could well endure the late felling of</hi> 300 <hi>Episco<g ref="char:EOLhyphen"/>pall and Cathedrall Oakes.</hi>] Poore Trees! That one day must goe downe to satisfie the necessity of your Masters, and another day to satisfie the malice of your Masters Enemies. You that have beene brought forth and bred up under Episcopacy, whose hoarie heads many ages have honoured, and onely must not live to see this last and worst, wherein the world hath dishonoured it selfe and all that is in it. You that must live and dye with Bishops and Cathedralls, can you not spare one branch to prefer one man before you leave us? Yes surely. Put on then thy owne naturall confidence, sweet <hi>Richard,</hi> and get up quickly, if thou lovest thy Countrymen and neighbours; for if men in high place only can do courtesies, thou shalt in this condition extreamely oblige and gratifie all that know thee: And feare not the losse of thy gettings, thy owne Country priviledges shall secure those to thy po<g ref="char:EOLhyphen"/>sterity, as is recorded in that memorable Adage to thy
+<pb n="9" facs="tcp:50203:7"/> comfort and advantage, the father to the Bough, the son to the Plough.</p>
+            <p>[<hi>P.</hi> 19. <hi>Some Zealous Troopers.</hi>] That is, some furious fellowes, that would be damn'd for Swearing, Lying, Whoring, and Drinking, if the Parliament service did not pardon them, went into the Church and there ravisht the Whore of <hi>Babylo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>'s</hi> smock; which <hi>Richard Culmer</hi> hath so many times had on his own back. These are such good people, some of them as have left committing Idolatry in the Church, to commit adultery in the Towne.</p>
+            <p>[<hi>P.</hi> 20. <hi>When the Commissioners were upon the Execution, &amp;c.</hi>] Commissioners! who were these good <hi>Richard?</hi> let us know them. The Commissioners pul'd downe Cheap-side-Crosse. The Commissioners kil'd the women that came to petition for Peace; and did many more things within these three yeares would fill a volume. Were your Commissioners such as these? Precious men, and of great authority; whose Commissions were dated when there was no King in Israell.</p>
+            <p>[<hi>P.</hi> 22. <hi>A Minister being then on the top of the Citie Ladder, neare sixty steps high, with a whole Pike in his hand.</hi>] A Cul<g ref="char:EOLhyphen"/>minating Reformer! The Minister was <hi>Richard Culmer's</hi> owne sweet selfe, Principall Commissioner! A pretty spectacle for a Reformation. But this Ladder may serve to a better purpose hereafter.</p>
+            <p>[<hi>P.</hi> 22. <hi>Others then present would not venture so high</hi>] Here was Zeale, not onely ascendent, but transcendent. And a hint he gives us of this, to glorifie himselfe before his Masters of the Reformation.</p>
+            <p>But our precious <hi>Richard</hi> is gotten into his owne pro<g ref="char:EOLhyphen"/>fession of Divinitie, where he thinks he argues it most Seraphically, he quotes the place of <hi>Deut.</hi>
+            </p>
+            <p>[<hi>P.</hi> 23. Deut. 13.6. <hi>If any (though never so neere or deare unto us) move us to Idolatry, we are commanded by God him<g ref="char:EOLhyphen"/>selfe
+<pb n="10" facs="tcp:50203:8"/> to stone them, our eyes must not spare them: must we not spare a living man, made little inferiour to the Angels, but must rend &amp; maul him with stones, and shall we stomack the bat<g ref="char:EOLhyphen"/>tering and defacing <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f dead Images?</hi>] Now I would faine aske <hi>Richard,</hi> if this law be in force, why he did not long agoe, when his C<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>thedrall salt had lost its savour and was ducking at the Altar, take him in the manner and knock out his braines with a Brick-b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t? Such a trick would have begun a good Reformation, in making the march up the Ladder the second time.</p>
+            <p>From this law it was, that <hi>Asa,</hi> 2 <hi>Chro.</hi> 15.13. <hi>entred into Covenant to seeke the Lord, and that whosoever would not seeke the Lord God of Iraell, should be put to death.</hi>
+            </p>
+            <p>And hence it is, that many of the new-doctrine-men preach killing and destroying of Cavaliers and Malig<g ref="char:EOLhyphen"/>nants. Some of <hi>Richard's</hi> owne craft, by which they get their living, and therefore will never be perswaded to leave it.</p>
+            <p>[<hi>P.</hi> 23. <hi>Let those that cry out against this Reformation, read these and the like places of Scripture,</hi> Numb. 33.52. Deut. 7.5. 1 King. 15.12. 2 King. 18.4. Isay. 30.22.] where all Communion with the Idolatrous nations is forbidden, and that Idolatry which the Jewes had con<g ref="char:EOLhyphen"/>tracted from that Communion is cōmanded to be sup<g ref="char:EOLhyphen"/>pressed: which how neer it suits with our State, let rea<g ref="char:EOLhyphen"/>sonable men compare. And whether the like difference is between the Kings party and <hi>Richard Culmer's,</hi> as was then betweene the Jewes and the Heathenish Nations. It shewes the weake braine of our culminating Reformer, that he made choyce of onely these places in the whole Bible among the great number of others which would have beene more to his purpose. But that Text he in<g ref="char:EOLhyphen"/>tends most for the advantage of himselfe, and the cause is out of <hi>Numb.</hi> 33.52.53. <hi>Yee shall drive out the inhabitants
+<pb n="11" facs="tcp:50203:8"/> of the land.—And yee shall dispossesse the inhabitants of the land, and dwell therin, for I have given you the land to possesse it.</hi> This is a poynt, beleeve me, if it be well followed would make them all rich, a sure reward of their holinesse.</p>
+            <p>How the text is to be understood of the 7 Nations, and whether they were dispossest or no, or if only <hi>Ama<g ref="char:EOLhyphen"/>leck,</hi> I could teach <hi>Richard,</hi> if I had leisure out of <hi>Exod.</hi> 17.14. <hi>Deut.</hi> 20.10. 1 <hi>K.</hi> 9.20. <hi>Ios.</hi> 11.19.20. But I will onely conserve my selfe and my friends for the pre<g ref="char:EOLhyphen"/>sent, and put him to shew a precept, or command from God, of executing that law against <hi>Amaleck,</hi> upon the Kings loyall subjects here in <hi>England,</hi> and then we will de<g ref="char:EOLhyphen"/>liver quiet and peaceable possession as soone as hee doth it.</p>
+            <p>[P. 24. <hi>And now the godly flocke to that Cathedrall again, in such numbers, that had not the Idolatrous Windowes in the Sermon house bin demolished, as they are, the numerous Cathe<g ref="char:EOLhyphen"/>drall auditors would be much annoy'd with extreamity of heat</hi>] What a precious good worke did <hi>Richard</hi> execute out of a propheticke foresight of a great heat that was like to be in the Sermon-house? This notable convenience so accidentally hapning, will accuse him certainely of a great error that shall goe about to glaze those windowes againe.</p>
+            <p>But will the world still looke upon this booke of his without scorne and derision, will any one believe, he get<g ref="char:EOLhyphen"/>ting up on a ladder 60 steps high, and beating downe windowes with a whole Pike is the best way to let in aire, though indeed it may be the readiest? Then the beating downe the roofe of a house is the best way to let the rain in to wash the roomes.</p>
+            <p>But I have done with this pittifull Newes-Monger, whose whole Relation is such a bundle of frippery ware, and such a tag-rag collection of poore tales, ending in
+<pb n="12" facs="tcp:50203:9"/> non-sense and slanders, and lyes, that I shall never be able to excuse the paines I have taken to looke it over.</p>
+            <p>And not to leave him so, we shall hold him a glasse, wherein he may see his owne errors, that hee may per<g ref="char:EOLhyphen"/>haps learne to amend, and repent him of the offences committed against the lawes of the land.</p>
+            <p>And first therefore let him take notice what the stat. of <hi>Westm.</hi> first ordaines against Speakers of false newes, and lyes, which may cause discord betweene the King and his people. Let him also note the Lawes before the con<g ref="char:EOLhyphen"/>que<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, <hi>Inter leges Aluuredi,</hi> c. 28. <hi>Qui falsi rumoris in vul<g ref="char:EOLhyphen"/>gus sparsi author fuisse deprehendetur, leviori aliqua poena non mulctator, verum lingua ei praeciditor, ni is eam integraca<g ref="char:EOLhyphen"/>pitis sui aestimatione data redem<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rit.</hi>
+            </p>
+            <p>
+               <hi>Inter leges</hi> Edgar. <hi>Regis, &amp; inter leges Canuti, si quis ali<g ref="char:EOLhyphen"/>um rumoribus dissipatis, improba voce lacerarit, quamobrem, aut corpori ejus damnum inferatura, aut de fortunis immi<g ref="char:EOLhyphen"/>nuatur aliquid, tum si alter auditiones, tanquam falsas refel<g ref="char:EOLhyphen"/>lere, &amp; coarguere poterit, aut is linguam data capitis aestima<g ref="char:EOLhyphen"/>tione redimito, aut ei lingua praeciditor.</hi>
+            </p>
+            <p>And whether or no he might not be said to bee within the Stat. of Riots, Routs, and unlawfull Assemblies, and the 5. <hi>Ed.</hi> 6. c. 4. for quarelling, chiding, and braw<g ref="char:EOLhyphen"/>ling, in Church and Church-yards.</p>
+            <p>These I onely recite to give him subjects of meditati<g ref="char:EOLhyphen"/>on, and occasions to reforme himselfe if he have the Grace.</p>
+            <p>Here was intended a Character of the man calling him<g ref="char:EOLhyphen"/>selfe <hi>Richard Culmer,</hi> Minister of Gods Word, &amp;c. which, from some reasons drawn from Charity, we omit, though himselfe hath taken upon him in his booke, one of the highest of Christs Offices, <hi>to judge the quicke and the dead,</hi> it is enough onely that as soone as we saw his Pamphlet in print, we could not but cry out in the Jewes Proverb, Is <hi>Saul</hi> also among the Prophets?</p>
+            <pb facs="tcp:50203:9"/>
+            <p>Can he that lived the life of <hi>Ishmael, whose hand was a<g ref="char:EOLhyphen"/>gainst every man, and every mans hand was against him,</hi> Gen. 16.12. (so little love had he gotten among his neigh<g ref="char:EOLhyphen"/>bours and Countrymen) be now the top-stone of a Re<g ref="char:EOLhyphen"/>formation?</p>
+            <p>Can he that (like the vulture when she seeth her owne birds grow fat and thrive, will beat them with her wings till she make them leane,) hath in words and actions shewed aboundantly, that the possessions of his brethren of the Clergy, are the chiefe objects of his affections? That with the Sechemities, hath considered with him<g ref="char:EOLhyphen"/>selfe, <hi>Shall not their cattel, and their substance, and every beast of theirs be ours,</hi> be the onely re-builder of the Temple of the Lord, and principall restorer of Religion? Rather if yee see him, as sayes <hi>Ierem.</hi> 7.5, 6. <hi>amend his wayes and his doings, and not to oppresse the stranger, the fatherlesse and wid<g ref="char:EOLhyphen"/>dow, and shed no innocent blood.</hi>
+            </p>
+            <p>Can he, that begins his Sermons quite contrary to his Master, with imprecations and cursings, and neither preacheth, nor prayeth, as Christ before him taught, be a Minister of the Gospell, or an Embassadour of the Prince of Peace? Rather, as <hi>Zipporah</hi> said to <hi>Moses, surely Bloody Messengers have you beene to us all.</hi> So that while the State we feared at first would have overthrowne the Do<g ref="char:EOLhyphen"/>ctrines of the Church, the Doctrines of the Church wee see have at last overturned the foundations of the Sate. What fruits see we from hence brought forth, but a compleat and perfect desolation comming on us all? The Owle eateth up the Crowes egs by night, and the Crow eateth up the Owls egs by day: what the Religi<g ref="char:EOLhyphen"/>ous thiefe leaves, the Malignant carries away, and what the Malignant thiefe spares, the Religious destroyes: Both, to be revenged of one another, will spoyle a King<g ref="char:EOLhyphen"/>dome, which they have now divided into parts, to be
+<pb n="14" facs="tcp:50203:10"/> more capable of ruine and dissolution. Jealousie is the rage of man (sayes the wise man) <hi>therefore he will not spare in the day of vengeance. Prov.</hi> 6.34. so miserable is our life, that our afflictions are brought upon us without mercie at home, and without pitty from abroad.</p>
+            <p>The Government of Great Britaine is turned into the Committees of <hi>England,</hi> and Tables of <hi>Scotland.</hi> And a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> some derive, <hi>mons a movendo quia non movet,</hi> and <hi>lucus a lucendo quia non lucet,</hi> so the Parliament of <hi>England</hi> is so called from <hi>Par ler le ment,</hi> because it is not lawfull there to speake ones mind.</p>
+            <p>The Subjects are become Kings, and the King and his Rulers become Subjects. Of the meanest in the Church are made Priests, and of the meanest in the Sate are made governours. The servants put in place of their Master, ex<g ref="char:EOLhyphen"/>act more of their fellow-servants then the Master him<g ref="char:EOLhyphen"/>selfe.</p>
+            <p>First, men are left to their native liberty to doe what they are willing; next they are prickt forward to doe what they are able; and lastly, tortur'd to doe above that they are able.</p>
+            <p>To thinke is not free, to speake is to be in danger of the Councell; to act or doe, is to be worthy of death. Our money is taken out of our purses, our meat out of our mouthes, our blood out of our veines, and if it were possible, our soules by rigid and unlawfull Oathes for<g ref="char:EOLhyphen"/>ced out of the Armes of our blessed Saviour and Redee<g ref="char:EOLhyphen"/>mer, Jesus Christ.</p>
+            <p>They that fit to judge men according to the law, com<g ref="char:EOLhyphen"/>mand men to be smitten contrary to the law. They that abhorre Idolls, doe themselves nothing else but commit Sacriledge.</p>
+            <p>They that say, they may erre, will however never con<g ref="char:EOLhyphen"/>fesse they do erre: and from hence have turn'd the High
+<pb n="15" facs="tcp:50203:10"/> Commission into a high Committee: The Marshalls Court into a Martiall Court: cast out one Devill, and let in a Legion.</p>
+            <p>In a word, the honour and glory of this Nation, is be<g ref="char:EOLhyphen"/>come an empty name and sound, and lives onely in the Aire; man himselfe is judg'd to death by an ordinance of warre, and his body thrown into the Earth, from whence he came; his habitations are layd wast,<note place="margin">Ordinance for Shipping. Ordinance for Turffe &amp; peat.</note> and his woods commanded to be cut downe and hurl'd into the Sea. And last of all, the world it selfe is ordained to be dugge up and cast into the Fire.</p>
+            <p>So it hath pleased God to confound and destroy us by the strength of that we most trusted in, a Parliament: which is growne so aged already, it hath transmitted most part of its worke to its childrens children, a nume<g ref="char:EOLhyphen"/>rous off-spring of Committees and Sub-Committees, which have dispersed themselves into every corner of this sinfull Nation; that we may know how much we have deserved Gods judgements, in a ruine so acute and vio<g ref="char:EOLhyphen"/>lent, as nothing but the wickednesse of the last age could have invented or executed.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
